@@ -1,0 +1,1 @@
+All the files in for the phase 2 submission are contained in the folder 'Phase2_submission'. To access and run the code, place all the files in some folder, also place the 3 folders of the dataset (submitted through a drive folder link) in the same directory as the codes since the relative paths are used to import data files in the code. Thank you.
